@@ -1,1 +1,13 @@
-
+<?xml version="1.0" encoding="utf-8"?>
+<bug_report_structure>
+    <summary>summary</summary>
+    <project>project</project>
+    <component>component</component>
+    <version>version</version>
+    <severity>severity</severity>
+    <priority>priority</priority>
+    <steps_to_reproduce>steps to reproduce</steps_to_reproduce>
+    <actual_result>actual result</actual_result>
+    <expected_result>expected result</expected_result>
+    <additional_information>additional information</additional_information>
+</bug_report_structure> 
