@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<skills>
+	<teory>The basics of testing - Types of testing/ SDLC/ STLC/Software development methodologies/ test design techniques</teory>
+	<cs>Client-server architecture</cs>
+	<doc>Documentation - Checklists / Bug_reports / Test-case / Requirements</doc>
+	<lin>Terminal Linux</lin>
+	<git>Git,GitHub,GitBush</git>
+	<post>Postman</post>
+	<s>SQL</s>
+	<dev>Chrome_DevTools</dev>
+	<mob>Mobile testing</mob>
+</skills>
